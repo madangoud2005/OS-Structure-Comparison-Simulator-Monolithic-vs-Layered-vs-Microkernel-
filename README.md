@@ -1,4 +1,4 @@
-# OS Structure Lab: Monolithic vs Layered vs Microkernel Simulator
+# OS Structure Comparison Simulator: Monolithic vs Layered vs Microkernel Simulator
 
 > An abstract, conceptual, and interactive Operating Systems laboratory simulator demonstrating how **ONE system call** journeys through three distinct OS architectures: **Monolithic**, **Layered**, and **Microkernel**.
 
